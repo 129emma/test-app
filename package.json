@@ -1,6 +1,6 @@
 {
   "homepage": "http://129emma.github.io/test-app",
-  "name": "text-app",
+  "name": "test-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
